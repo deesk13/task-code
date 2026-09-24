@@ -28,3 +28,9 @@ Accepts a number and calculates its factorial using a loop.
 - Modulus operator
 - Lists
 - join()
+## OUTPUT:
+<img width="1917" height="692" alt="image" src="https://github.com/user-attachments/assets/85494f11-dfee-414e-8049-921ac8b42953" />
+<img width="1917" height="522" alt="image" src="https://github.com/user-attachments/assets/e4c39689-a6b4-43aa-9579-eee5787b6fe9" />
+
+<img width="1857" height="485" alt="image" src="https://github.com/user-attachments/assets/d2d190e5-3ec0-4663-a7a1-1e738d90cb94" />
+
